@@ -8,4 +8,4 @@
 
 ### credits:
 
-![original-url](https://www.producthunt.com/)
+[original-url](https://www.producthunt.com/)
