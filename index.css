@@ -234,11 +234,13 @@ nav {
 
 .sidebar-container {
   width: 30%;
-  margin: 30px 0 0 40px;
+  margin: 30px 0px 40px 40px;
   font-size: 13px;
   text-transform: uppercase;
   color: #575757;
   font-weight: 600;
+  height: fit-content;
+  padding-bottom: 40px;
 }
 
 .sidebar-container-title {
@@ -249,4 +251,32 @@ nav {
 .sidebar-container-title span {
   font-size: 17px;
   margin-left: 3px;
+}
+
+.sidebar-item {
+  width: 70%;
+  text-transform: none;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 20px 0 0;
+}
+
+.sidebar-item-title {
+  color: #4b587c;
+  font-weight: 500;
+  font-size: 17px;
+}
+.sidebar-item-timeread {
+  color: #4b587c;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.sidebar-item-img img {
+  display: flex;
+}
+.sidebar-item-img img {
+  max-width: 80px;
+  max-height: 80px;
+  border-radius: 5px;
 }
