@@ -76,7 +76,7 @@ nav {
 }
 
 .nav-btn-container button {
-  padding: 15px;
+  padding: 13px;
   background-color: #f74633;
   color: white;
   font-weight: 600;
@@ -162,8 +162,7 @@ nav {
   color: #667190;
   display: flex;
   margin-top: 2px;
-  align-self: center;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   align-content: center;
 }
