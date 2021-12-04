@@ -1,5 +1,7 @@
 # ProductHunch CSS cloning
 
-## Completed this result in 2 hours only:
+## Completed styling this page in roughly 3 hours with little brakes :)
 
-![screenshot](https://github.com/ItzikGabay/images-folder-for-projects/blob/main/product-hunch-exp-1.png?raw=true)
+### end result:
+
+![screenshot](https://github.com/ItzikGabay/images-folder-for-projects/blob/main/product-hunch-view.png?raw=true)
